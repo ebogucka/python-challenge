@@ -1,2 +1,2 @@
-# python-challenge
- My solutions to the Python Challenge riddles
+# Python Challenge
+ My solutions to the [Python Challenge](http://www.pythonchallenge.com/) riddles.
